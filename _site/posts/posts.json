@@ -5,15 +5,15 @@
     "description": "Welcome to our new blog, Data Analytics Blog. We hope you enjoy \nreading what we have to say!",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "PICS",
+        "url": {}
       }
     ],
     "date": "2022-02-18",
     "categories": [],
     "contents": "\n\n\n\n",
     "preview": {},
-    "last_modified": "2022-02-18T16:28:33+08:00",
-    "input_file": {}
+    "last_modified": "2022-02-18T17:07:16+08:00",
+    "input_file": "welcome.knit.md"
   }
 ]
